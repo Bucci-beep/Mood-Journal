@@ -1,0 +1,32 @@
+# 🌿 Mood Journal (Beginner Python Project)
+
+This is a simple command-line **Mood Journal** built with core Python fundamentals — functions, variables, return statements, and side effects like `print()` and `input()`.
+
+It serves as a creative and reflective tool for recording a user’s mood and offering a gentle, poetic message in return.
+
+---
+
+##  Features
+
+- Welcomes the user to the journal.
+- Prompts the user to describe how they're feeling today.
+- Responds with a comforting message, including a short poem.
+- Stores the mood input as a variable.
+- Ends with a peaceful closing message.
+
+---
+
+## Concepts Practiced
+
+This project was built using only concepts covered in the early stages of programming:
+
+- Python functions
+- Variables and user input
+- Return statements
+- Side effects (like printing and prompting the user)
+
+No loops, conditionals, lists, or advanced structures have been used yet, making this project beginner-friendly and ideal for students just starting out.
+
+---
+
+
